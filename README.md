@@ -1,2 +1,2 @@
 # BlueNote
-An advanced text editor with a sleek, smooth design. Pleasing to the eye and easy to use.
+An advanced text editor with a sleek, smooth design for Mac OS X. Pleasing to the eye and easy to use.
